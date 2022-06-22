@@ -1,5 +1,5 @@
 console.log("-------------------------")
-console.log("test")
+//console.log("test")
 
 var number = 5 //comment in line
 
@@ -9,7 +9,7 @@ on multiple
 lines
 */
 
-b = "Eu te amo mais, Larissa!"
-console.log("Astrid sier; ", b)
+b = "Eu te amo mais, Astrid!"
+console.log("Larissa sier; ", b)
 
 console.log("-------------------------")

@@ -14,9 +14,10 @@ var empty = undefined
 
 //this code prints the results
 console.log(firstName, "sier; ", b)
-console.log(balance)
-console.log(dob)
-console.log(person)
-console.log(empty)
+
+console.log(firstName.length)
+console.log(firstName.toUpperCase())
+console.log(firstName.substring(0,4))
+console.log(`${firstName} ${b.toUpperCase()}`)
 
 console.log("-------------------------")

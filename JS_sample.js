@@ -6,10 +6,10 @@ var number = 5 //comment in line
 /*
 Comment
 on multiple
-line
+lines
 */
 
-b = "Eu te amo mais"
+b = "Eu te amo mais, Larissa!"
 console.log("Astrid sier; ", b)
 
 console.log("-------------------------")

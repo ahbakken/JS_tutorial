@@ -10,3 +10,7 @@ p {
     height: 100px;
     background: green;
 }
+
+a {
+    text-decoration: none;
+}

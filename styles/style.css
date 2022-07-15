@@ -1,19 +1,37 @@
-#my-id {
-  color: black;
-  /* background: red;
-  font-size: 20px;
-  font-style: italic; */
+ @import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+#my-p {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 0.5px;
+  font-family: 'Inconsolata', monospace;
 }
 
-.my-class {
-  font-style: italic;
+.my-h {
+  text-align: center;
+  font-size: 60px;
+  font-family: 'Edu VIC WA NT Beginner';
 }
 
-a[href="https://example.org/"] {
-  font-style: italic;
+.my-h:hover {
   color: blue;
+}
+
+.my-h:first-letter {
+  color: red;
+}
+
+.my-h:hover:first-letter {
+  color: yellow;
+}
+
+html {
+  font-family: sans-serif;
+  font-size: 10px;
 }
 
 a {
   text-decoration: none;
 }
+

@@ -1,0 +1,19 @@
+#my-id {
+  color: black;
+  /* background: red;
+  font-size: 20px;
+  font-style: italic; */
+}
+
+.my-class {
+  font-style: italic;
+}
+
+a[href="https://example.org/"] {
+  font-style: italic;
+  color: blue;
+}
+
+a {
+  text-decoration: none;
+}
